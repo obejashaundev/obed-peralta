@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @obed-peralta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @obed-peralta
 
-<!---
-obed-peralta/obed-peralta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in techonologies Microsoft 😎 & Javascript 💖
+- 👨‍🏭 I'm working actually with some projects like CReMaS (CRM) and TiCerTek (Certification & qualification module) for a product of SIEXA named Scholatek.
+- 🌱 I’m currently learning Sequelize ORM for Node.js 💡
+- 💞️ I’m looking to collaborate on a repo named VistasPerras by @BoingDeAn0
+- 📫 How to reach me ... via Facebook you can find me as "Obed Peralta Bv" or contact me from my portfolio 🌐 [website](https://obejashaundevportfolio.000webhostapp.com/).
+
+¡Thanks for visit me! ✨🥳
+
+👋
